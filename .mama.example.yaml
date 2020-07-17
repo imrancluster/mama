@@ -1,0 +1,23 @@
+enrolment:
+    local:
+        db:
+            host: DB_HOST
+            port: DB_PORT
+            name: DB_NAME
+            username: DB_USER
+            password: DB_PASSWORD
+    staging:
+        db:
+            host: DB_HOST
+            port: DB_PORT
+            name: DB_NAME
+            username: DB_USER
+            password: DB_PASSWORD
+core:
+    staging:
+        db:
+            host: DB_HOST
+            port: DB_PORT
+            name: DB_NAME
+            username: DB_USER
+            password: DB_PASSWORD
